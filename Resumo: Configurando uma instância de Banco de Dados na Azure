@@ -1,0 +1,17 @@
+Resumo: Configurando uma instância de Banco de Dados na Azure
+
+Durante as vídeos aulas sobre computação em nuvem, aprofundei meus conhecimentos na plataforma Microsoft Azure, explorando tanto o portal quanto a criação 
+prática de recursos como máquinas virtuais (VMs) e servidores de banco de dados SQL. O Azure se destaca por oferecer uma ampla gama de serviços e 
+configurações, permitindo personalizações detalhadas para atender às necessidades específicas de empresas e clientes.
+Ao criar uma conta gratuita no Microsoft Azure, você recebe um crédito de US$ 200 para utilizar nos primeiros 30 dias, podendo explorar diversos serviços da 
+plataforma. Além disso, tem acesso gratuito a mais de 20 serviços populares por 12 meses e a mais de 65 serviços que permanecem gratuitos indefinidamente, 
+dentro de limites mensais específicos. Para se inscrever, é necessário fornecer um número de telefone, um cartão de crédito ou débito e uma conta Microsoft 
+ou do GitHub. Importante destacar que não há cobranças automáticas; você só será cobrado se optar por migrar para o modelo de pagamento conforme o uso.
+
+A criação de uma máquina virtual no Azure envolve a seleção de uma imagem do sistema operacional, configuração de recursos como CPU e memória, definição de 
+regras de acesso e escolha de opções de armazenamento. Para o banco de dados SQL, o processo inclui a definição de um servidor, configuração de autenticação 
+e estabelecimento de regras de firewall para permitir conexões externas.
+A experiência prática reforçou a importância de uma configuração cuidadosa e alinhada aos requisitos do projeto, visando eficiência e otimização de custos. 
+Além disso, a documentação clara e estruturada dos processos realizados é fundamental para facilitar futuras implementações e compartilhamento de 
+conhecimento. Utilizar ferramentas como o GitHub para armazenar e divulgar essa documentação contribui significativamente para a organização e colaboração 
+em projetos na nuvem.
