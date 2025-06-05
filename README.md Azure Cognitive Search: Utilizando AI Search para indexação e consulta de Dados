@@ -1,0 +1,7 @@
+Tive a oportunidade de explorar os recursos do Azure Cognitive Search para aprender sobre organização e pesquisa de documentos utilizando inteligência artificial.
+Utilizei o assistente de importação de dados no portal do Azure para carregar documentos de exemplo e criar um índice de pesquisa. 
+Essa ferramenta facilitou a configuração sem a necessidade de programação, permitindo que eu definisse campos pesquisáveis e aplicasse filtros para refinar os resultados.
+Com o índice criado, utilizei o Search Explorer para realizar consultas e visualizar os resultados em formato JSON. 
+Isso me permitiu entender como os dados eram organizados e como as consultas retornavam informações relevantes de forma eficiente.
+Essa experiência me proporcionou uma compreensão prática de como a inteligência artificial pode ser aplicada na organização e pesquisa de grandes volumes de dados. 
+O Azure Cognitive Search mostrou-se uma ferramenta poderosa e acessível para estudantes interessados em explorar soluções de busca e análise de informações.
